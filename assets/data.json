@@ -1,0 +1,162 @@
+{
+  "home": [
+    {
+      "pageId": "1049",
+      "pageTitle": "Home",
+      "pageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/home.png",
+      "rootClassKey": "0"
+    }
+  ],
+  "appbar": [
+    {
+      "appbarId": "1049",
+      "appbarTitle": "Home"
+    },
+    {
+      "appbarId": "1050",
+      "appbarTitle": "All Courses"
+    },
+    {
+      "appbarId": "1061",
+      "appbarTitle": "Blog"
+    }
+  ],
+  "drawer": [
+    {
+      "pageId": "1049",
+      "pageTitle": "Home",
+      "pageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/home.png"
+    },
+    {
+      "pageId": "1050",
+      "pageTitle": "All Courses",
+      "pageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/courses.png"
+    },
+    {
+      "pageId": "1051",
+      "pageTitle": "Want to play drums",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/drum.png"
+    },
+    {
+      "pageId": "1052",
+      "pageTitle": "How to cook",
+      "pageContent": "About this course and overview\\\\nBasics and Information\\\\nLearn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/cook.png"
+    },
+    {
+      "pageId": "1061",
+      "pageTitle": "Blog",
+      "pageContent": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\n",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/blog.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageId": "1051",
+      "pageTitle": "Want to play drums",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/drum.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1052",
+      "pageTitle": "How to cook",
+      "pageContent": "About this course and overview\\\\nBasics and Information\\\\nLearn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/cook.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1053",
+      "pageTitle": "Modern Medicines",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/medicin.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1054",
+      "pageTitle": "Software Engineering",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/sofware.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1055",
+      "pageTitle": "IT and Cloud",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/cloud.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1056",
+      "pageTitle": "Business Management",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/bussiness.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1057",
+      "pageTitle": "Login",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/drum.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1058",
+      "pageTitle": "Home",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/cook.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1059",
+      "pageTitle": "Faculty Staff",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/medicin.png",
+      "rootClassKey": "0"
+    },
+    {
+      "pageId": "1060",
+      "pageTitle": "Share",
+      "pageContent": "About this course and overview Basics and Information Learn the most important aspects..",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/sofware.png",
+      "rootClassKey": "0"
+    }
+  ],
+  "widgets": [
+    {
+      "widget_id": "25",
+      "pageTitle": "Video Call",
+      "pageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "pageNavigationIcon": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/videocall.png",
+      "pageUrl": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/images\/videocall.png",
+      "rootClassKey": "25"
+    }
+  ],
+  "footer": [
+    {
+      "widget_id": "25",
+      "pageTitle": "Video Call",
+      "pageIcon": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/videocall.png",
+      "pageUrl": "https://medium.com/@shubham.narkhede8/flutter-google-map-with-direction-6a26ad875083",
+      "rootClassKey": "1"
+     },
+    {
+      "widget_id": "25",
+      "pageTitle": "home",
+      "pageIcon": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/videocall.png",
+      "pageUrl": "https://medium.com/@shubham.narkhede8/how-to-ask-multiple-permissions-in-flutter-9cce67e7dae3",
+      "rootClassKey": "2"
+    },
+    {
+      "widget_id": "25",
+      "pageTitle": "Setting",
+      "pageIcon": "https:\/\/goflitedev.jobadoa.com\/flite_apps\/1\/157\/videocall.png",
+      "pageUrl": "https://medium.com/@shubham.narkhede8/flutter-gradient-app-bar-d39bf161ad58",
+      "rootClassKey": "2"
+    }
+  ]
+}
